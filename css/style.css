@@ -165,9 +165,9 @@ header{
 }
 
 .subMenu ul li{
+	max-width: 150px;
 	padding-right: 1rem;
 	font-size: 14px;
-	max-width: 150px;
 }
 
 .subMenu ul li a{
@@ -467,8 +467,8 @@ footer{
 .innerFooter .ftrLinkTitle{
 	margin-bottom: 1rem;
 	color: var(--White-text);
-	font-family: var(--font-body);
 	font-weight: var(--font-regular);
+	font-family: var(--font-body);
 }
 
 .innerFooter ul{
