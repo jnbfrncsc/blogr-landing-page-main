@@ -184,7 +184,7 @@ header{
     .navMenu{
 		display: none;
         position: absolute;
-        top: 15%;
+        top: 20%;
 		left: 0;
 		z-index: 1;
 		width: 90%;
